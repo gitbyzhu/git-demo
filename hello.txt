@@ -7,4 +7,4 @@ hello world! hello Git!
 hello world! hello Git!
 hello world! hello Git!
 hello world! hello Git!
-hello world! hello Git! hot-fix
+hello world! hello Git! hot-fix hot-fix hot-fix

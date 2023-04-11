@@ -6,5 +6,5 @@ hello world! hello Git!
 hello world! hello Git!
 hello world! hello Git!
 hello world! hello Git!
-hello world! hello Git!
+hello world! hello Git! master  master  master
 hello world! hello Git! hot-fix
